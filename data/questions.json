@@ -1,0 +1,117 @@
+[
+  {
+    "title": "Eiffel Tower",
+    "description": "An iconic iron lattice tower located on the Champ de Mars in Paris, France. Built in 1889 as the entrance arch to the World's Fair, it has become a global cultural icon of France and one of the most recognizable structures in the world.",
+    "simultaneousPlayers": 847,
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1511739001486-6bfe10ce785f",
+        "alt": "Eiffel Tower at sunset"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34",
+        "alt": "Eiffel Tower from below"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1549144511-f099e773c147",
+        "alt": "Eiffel Tower at night"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1543349689-9a4d426bee8e",
+        "alt": "Eiffel Tower aerial view"
+      }
+    ]
+  },
+  {
+    "title": "Sushi",
+    "description": "A traditional Japanese dish consisting of prepared vinegared rice accompanied by various ingredients such as raw seafood, vegetables, and tropical fruits. It is often served with soy sauce, wasabi, and pickled ginger.",
+    "simultaneousPlayers": 623,
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351",
+        "alt": "Assorted sushi platter"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1583623025817-d180a2221d0a",
+        "alt": "Sushi rolls closeup"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1580822184713-fc5400e7fe10",
+        "alt": "Nigiri sushi"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1564489563601-c53cfc451e93",
+        "alt": "Sushi preparation"
+      }
+    ]
+  },
+  {
+    "title": "Golden Retriever",
+    "description": "A large-sized breed of dog bred as gun dogs to retrieve shot waterfowl during hunting and shooting parties. They are characterized by their gentle and friendly temperament, intelligence, and beautiful golden coat. They are one of the most popular family pets in the world.",
+    "simultaneousPlayers": 412,
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1633722715463-d30f4f325e24",
+        "alt": "Golden retriever portrait"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1554224311-beee415c201f",
+        "alt": "Golden retriever playing"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1612536020154-d3df0c540438",
+        "alt": "Golden retriever puppy"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1614941995183-151a1c0e82af",
+        "alt": "Golden retriever in nature"
+      }
+    ]
+  },
+  {
+    "title": "Coffee",
+    "description": "A brewed drink prepared from roasted coffee beans, the seeds of berries from certain flowering plants in the Coffea genus. It is one of the most popular beverages worldwide and is known for its stimulating effect due to its caffeine content. It can be prepared and presented in a variety of ways.",
+    "simultaneousPlayers": 891,
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085",
+        "alt": "Cup of coffee"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
+        "alt": "Coffee beans"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1447933601403-0c6688de566e",
+        "alt": "Espresso shot"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1442512595331-e89e73853f31",
+        "alt": "Latte art"
+      }
+    ]
+  },
+  {
+    "title": "Northern Lights",
+    "description": "A natural light display in Earth's sky, predominantly seen in high-latitude regions around the Arctic and Antarctic. They are caused by disturbances in the magnetosphere caused by solar wind, resulting in stunning displays of colorful lights dancing across the night sky.",
+    "simultaneousPlayers": 234,
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7",
+        "alt": "Aurora borealis green lights"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1483347756197-71ef80e95f73",
+        "alt": "Northern lights over mountains"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1579033461380-adb47c3eb938",
+        "alt": "Aurora borealis reflection"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4",
+        "alt": "Northern lights panorama"
+      }
+    ]
+  }
+]
