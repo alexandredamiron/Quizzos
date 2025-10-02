@@ -1,54 +1,54 @@
 [
   {
-    "title": "Eiffel Tower",
-    "description": "An iconic iron lattice tower located on the Champ de Mars in Paris, France. Built in 1889 as the entrance arch to the World's Fair, it has become a global cultural icon of France and one of the most recognizable structures in the world.",
-    "simultaneousPlayers": 847,
+    "title": "Arctic Motel Simulator",
+    "description": "Êtes-vous déjà allé dans l'Arctique? Vous souhaitez ouvrir un motel dans l’Arctique ? Avec la compagnie des aurores boréales, des blizzards, des jours et des nuits polaires, des forêts vierges et des animaux sauvages, pouvez-vous transformer un motel délabré en un point de repère dans l'Arctique ?",
+    "simultaneousPlayers": 12,
     "images": [
       {
-        "src": "https://images.unsplash.com/photo-1511739001486-6bfe10ce785f",
-        "alt": "Eiffel Tower at sunset"
+        "src": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3098470/ss_b17e27fa37dc93030d5d4191fe16992f61abd95a.600x338.jpg?t=1745511333",
+        "alt": "Trop Facile"
       },
       {
-        "src": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34",
-        "alt": "Eiffel Tower from below"
+        "src": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3098470/ss_34456e22cc57dbac142dd779e6778d86e725fcf8.600x338.jpg?t=1745511333",
+        "alt": "Trop Facile"
       },
       {
-        "src": "https://images.unsplash.com/photo-1549144511-f099e773c147",
-        "alt": "Eiffel Tower at night"
+        "src": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3098470/ss_febd3b4dd545c70c6d89d84988754175bfe36150.600x338.jpg?t=1745511333",
+        "alt": "Trop Facile"
       },
       {
-        "src": "https://images.unsplash.com/photo-1543349689-9a4d426bee8e",
-        "alt": "Eiffel Tower aerial view"
+        "src": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3098470/ss_c9a268b2a2206a98022f8c2560806eff599d7fa5.600x338.jpg?t=1745511333",
+        "alt": "Trop Facile"
       }
     ]
   },
   {
-    "title": "Sushi",
-    "description": "A traditional Japanese dish consisting of prepared vinegared rice accompanied by various ingredients such as raw seafood, vegetables, and tropical fruits. It is often served with soy sauce, wasabi, and pickled ginger.",
-    "simultaneousPlayers": 623,
+    "title": "Parisian Brasserie Simulator",
+    "description": "Gérez votre propre brasserie à Paris et transformez-la en un lieu incontournable ! Créez des menus, servez les clients et développez votre restaurant. Gérez les approvisionnements, assurez un service impeccable et marquez la ville de votre empreinte. Serez-vous la prochaine institution parisienne ?",
+    "simultaneousPlayers": 60,
     "images": [
       {
-        "src": "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351",
-        "alt": "Assorted sushi platter"
+        "src": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3058360/ad417f3e8b7892a4c5d177e9b18590772ed50e4b/ss_ad417f3e8b7892a4c5d177e9b18590772ed50e4b.600x338.jpg?t=1759049153",
+        "alt": "Trop Facile"
       },
       {
-        "src": "https://images.unsplash.com/photo-1583623025817-d180a2221d0a",
-        "alt": "Sushi rolls closeup"
+        "src": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3058360/875ffdb64b97383e4e5d511d3dd13072617388c7/ss_875ffdb64b97383e4e5d511d3dd13072617388c7.600x338.jpg?t=1759049153",
+        "alt": "Trop Facile"
       },
       {
-        "src": "https://images.unsplash.com/photo-1580822184713-fc5400e7fe10",
-        "alt": "Nigiri sushi"
+        "src": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3058360/8bf972335ecb743ebbcfeb35a810fe652207c339/ss_8bf972335ecb743ebbcfeb35a810fe652207c339.600x338.jpg?t=1759049153",
+        "alt": "Trop Facile"
       },
       {
-        "src": "https://images.unsplash.com/photo-1564489563601-c53cfc451e93",
-        "alt": "Sushi preparation"
+        "src": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3058360/be4fc30c60eea6a0ffcc87e0e2243a5ebf71206c/ss_be4fc30c60eea6a0ffcc87e0e2243a5ebf71206c.600x338.jpg?t=1759049153",
+        "alt": "Trop Facile"
       }
     ]
   },
   {
-    "title": "Golden Retriever",
-    "description": "A large-sized breed of dog bred as gun dogs to retrieve shot waterfowl during hunting and shooting parties. They are characterized by their gentle and friendly temperament, intelligence, and beautiful golden coat. They are one of the most popular family pets in the world.",
-    "simultaneousPlayers": 412,
+    "title": "Cash Cleaner Simulator",
+    "description": "Vérifier, nettoyer, trier, expédier. Bienvenue dans la vie d'un nettoyeur de cash. Acceptez des contrats de la pègre et blanchissez de l'argent. Mais, n'envisagez surtout pas de partir...",
+    "simultaneousPlayers": 920,
     "images": [
       {
         "src": "https://images.unsplash.com/photo-1633722715463-d30f4f325e24",
@@ -69,48 +69,48 @@
     ]
   },
   {
-    "title": "Coffee",
-    "description": "A brewed drink prepared from roasted coffee beans, the seeds of berries from certain flowering plants in the Coffea genus. It is one of the most popular beverages worldwide and is known for its stimulating effect due to its caffeine content. It can be prepared and presented in a variety of ways.",
-    "simultaneousPlayers": 891,
+    "title": "Bum Simulator",
+    "description": "Bum Simulator est un jeu de bac à sable débordant d'humour inapproprié et de personnages mémorables. Vous vivez dans les rues de Bumsville. Avez-vous ce qu'il faut pour vous adapter, survivre et devenir une légende urbaine ?",
+    "simultaneousPlayers": 40,
     "images": [
       {
-        "src": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085",
-        "alt": "Cup of coffee"
+        "src": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/855740/ss_412c65edff3beb20c2fc632477f0bdec8d3c393f.600x338.jpg?t=1759310298",
+        "alt": "Trop Facile"
       },
       {
-        "src": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
-        "alt": "Coffee beans"
+        "src": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/855740/ss_060ed78b5d74dbf1e4956f6fe7ead4f343743775.600x338.jpg?t=1759310298",
+        "alt": "Trop Facile"
       },
       {
-        "src": "https://images.unsplash.com/photo-1447933601403-0c6688de566e",
-        "alt": "Espresso shot"
+        "src": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/855740/ss_6b4af8b219bb1cc48d14c2025c740d59a10b9e2e.600x338.jpg?t=1759310298",
+        "alt": "Trop Facile"
       },
       {
-        "src": "https://images.unsplash.com/photo-1442512595331-e89e73853f31",
-        "alt": "Latte art"
+        "src": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/855740/ss_4e03a57376dffc5848d95935aab1aa0c193d846f.600x338.jpg?t=1759310298",
+        "alt": "Trop Facile"
       }
     ]
   },
   {
-    "title": "Northern Lights",
-    "description": "A natural light display in Earth's sky, predominantly seen in high-latitude regions around the Arctic and Antarctic. They are caused by disturbances in the magnetosphere caused by solar wind, resulting in stunning displays of colorful lights dancing across the night sky.",
-    "simultaneousPlayers": 234,
+    "title": "Placid Plastic Duck Simulator",
+    "description": "La simulation ultime de canard en caoutchouc haute technologie, Placid Plastic Duck vous apporte de dangereux niveaux de relaxation. Accompagnée d’une musique relaxante, de graphismes 3D de rêve, ainsi que d’une ribambelle de joyeux petits canards, votre seule priorité sera de flotter.",
+    "simultaneousPlayers": 186,
     "images": [
       {
-        "src": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7",
-        "alt": "Aurora borealis green lights"
+        "src": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1999360/7624dcac19c2712dc2cefe49ea1279c761b010de/ss_7624dcac19c2712dc2cefe49ea1279c761b010de.600x338.jpg?t=1756586314",
+        "alt": "Trop Facile"
       },
       {
-        "src": "https://images.unsplash.com/photo-1483347756197-71ef80e95f73",
-        "alt": "Northern lights over mountains"
+        "src": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1999360/ss_12145e842102865c456f54b70c84589556636e6f.600x338.jpg?t=1756586314",
+        "alt": "Trop Facile"
       },
       {
-        "src": "https://images.unsplash.com/photo-1579033461380-adb47c3eb938",
-        "alt": "Aurora borealis reflection"
+        "src": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1999360/ss_8586d120bc6fdd3ee0eb74734524ae157996d9d4.600x338.jpg?t=1756586314",
+        "alt": "Trop Facile"
       },
       {
-        "src": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4",
-        "alt": "Northern lights panorama"
+        "src": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1999360/5080dc5c799b4520b482570684a8366a546acfa9/ss_5080dc5c799b4520b482570684a8366a546acfa9.600x338.jpg?t=1756586314",
+        "alt": "Trop Facile"
       }
     ]
   }
