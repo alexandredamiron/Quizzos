@@ -379,7 +379,7 @@ export default function Home() {
       const numberScore = calculateNumberScore(data.numberInput, currentQuestion.simultaneousPlayers);
 
       // 40% title, 40% description, 20% number
-      const totalScore = (titleScore * 0.40) + (descriptionScore * 0.40) + (numberScore * 0.20);
+      const totalScore = (titleScore * 0.40) + (descriptionScore * 0.80) + (numberScore * 0.20);
 
       return {
         playerId: id,
