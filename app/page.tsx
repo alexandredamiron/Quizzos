@@ -375,11 +375,11 @@ export default function Home() {
 
     const scores: PlayerScore[] = Object.entries(allPlayers).map(([id, data]) => {
       const titleScore = calculateTextSimilarity(data.textInput, currentQuestion.title);
-      const descriptionScore = calculateTextSimilarity(data.textareaInput, currentQuestion.description);
+      const descriptionScore = calculateTextSimilarity(data.textareaInput, currentQuestion.description) * 2.7;
       const numberScore = calculateNumberScore(data.numberInput, currentQuestion.simultaneousPlayers);
 
       // 40% title, 40% description, 20% number
-      const totalScore = (titleScore * 0.40) + (descriptionScore * 0.80) + (numberScore * 0.20);
+      const totalScore = (titleScore * 0.40) + (descriptionScore * 0.40) + (numberScore * 0.20);
 
       return {
         playerId: id,
