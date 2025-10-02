@@ -46,25 +46,48 @@
     ]
   },
   {
+    "title": "Parcel Simulator",
+    "description": "Inspectez et traitez des colis dans ce simulateur de gestion de colis ! Recevez et triez des livraisons, examinez les étiquettes pour détecter les erreurs et automatisez le contrôle pour augmenter votre rentabilité. Améliorez et agrandissez votre entrepôt pour construire votre empire !",
+    "simultaneousPlayers": 597,
+    "images": [
+      {
+        "src": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2424010/ss_c2ea6299b8d59cf7a4a26003930b8200b37c4ff0.600x338.jpg?t=1754586258",
+        "alt": "Trop Facile"
+      },
+      {
+        "src": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2424010/ss_d88fe3f3a0697a577b74f364f0e70dc702de0335.600x338.jpg?t=1754586258",
+        "alt": "Trop Facile"
+      },
+      {
+        "src": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2424010/ss_b3aa796d869d0e1090b1810fb23b576537a1e52a.600x338.jpg?t=1754586258",
+        "alt": "Trop Facile"
+      },
+      {
+        "src": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2424010/ss_8ac91821bd0d34469151ee34fab26bea5541c3c6.600x338.jpg?t=1754586258",
+        "alt": "Trop Facile"
+      }
+    ]
+  },
+  {
     "title": "Cash Cleaner Simulator",
     "description": "Vérifier, nettoyer, trier, expédier. Bienvenue dans la vie d'un nettoyeur de cash. Acceptez des contrats de la pègre et blanchissez de l'argent. Mais, n'envisagez surtout pas de partir...",
     "simultaneousPlayers": 920,
     "images": [
       {
-        "src": "https://images.unsplash.com/photo-1633722715463-d30f4f325e24",
-        "alt": "Golden retriever portrait"
+        "src": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2488370/31c8726b652b110c710234cb80f40d0ff1699696/ss_31c8726b652b110c710234cb80f40d0ff1699696.600x338.jpg?t=1758051349",
+        "alt": "Trop facile"
       },
       {
-        "src": "https://images.unsplash.com/photo-1554224311-beee415c201f",
-        "alt": "Golden retriever playing"
+        "src": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2488370/7705b1fefaf64a18759013d821feb9d90a56417f/ss_7705b1fefaf64a18759013d821feb9d90a56417f.600x338.jpg?t=1758051349",
+        "alt": "Trop facile"
       },
       {
-        "src": "https://images.unsplash.com/photo-1612536020154-d3df0c540438",
-        "alt": "Golden retriever puppy"
+        "src": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2488370/234ea3ed4266a498b0d6a0861b614b09ebf9edbb/ss_234ea3ed4266a498b0d6a0861b614b09ebf9edbb.600x338.jpg?t=1758051349",
+        "alt": "Trop facile"
       },
       {
-        "src": "https://images.unsplash.com/photo-1614941995183-151a1c0e82af",
-        "alt": "Golden retriever in nature"
+        "src": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2488370/2a6ad43466c63f47037b22d0ccf97b222cc1c3bc/ss_2a6ad43466c63f47037b22d0ccf97b222cc1c3bc.600x338.jpg?t=1758051349",
+        "alt": "Trop facile"
       }
     ]
   },
